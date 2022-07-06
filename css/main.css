@@ -294,6 +294,7 @@ li{display: flex; flex-direction: row; justify-content: space-between;}
 a:link {color: gray; text-decoration: none;}
 a:visited {color: gray; text-decoration: none;}
 #ah{color: white; text-decoration: none;}
+#lista:hover {opacity: 1;}
 
 
 /* footer */
